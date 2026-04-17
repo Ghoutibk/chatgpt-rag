@@ -4,10 +4,6 @@ Projet académique : implémenter un "ChatPDF" qui permet de poser des questions
 à un document PDF, sans hallucination, grâce à une architecture RAG
 (Retrieval-Augmented Generation).
 
-> 📖 **Pour comprendre en détail ce que fait ce projet, comment et pourquoi,
-> lisez le fichier [`GUIDE.md`](GUIDE.md).** Il est rédigé pour être accessible
-> même à une personne non-informaticienne.
-
 ## Architecture
 
 ```
