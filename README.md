@@ -24,8 +24,7 @@ chatpdf-rag/
 ├── rag_chain.py        # Pipeline RAG (retrieval + génération)
 ├── requirements.txt    # Dépendances
 ├── .env.example        # Template pour la clé API
-├── README.md           # Ce fichier (installation rapide)
-└── GUIDE.md            # Documentation pédagogique complète
+└── README.md           # Ce fichier (installation rapide)
 ```
 
 ## Installation
