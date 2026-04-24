@@ -71,12 +71,7 @@ def process_pdf(
     chunk_overlap: int = 200,
     clean: bool = True,
 ) -> list[Document]:
-    """
-    Pipeline complet : chargement → nettoyage (optionnel) → chunking.
-
-    C'est la fonction qu'on appellera depuis l'interface Streamlit.
-    Elle enchaîne les trois étapes précédentes.
-    """
+    
     documents = load_pdf(file_path)
 
     if clean:
