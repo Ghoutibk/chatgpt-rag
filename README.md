@@ -73,4 +73,4 @@ L'application s'ouvre dans le navigateur à l'adresse http://localhost:8501.
 
 - **Embeddings :** `mistral-embed` (vecteurs de dimension 1024)
 - **LLM :** `mistral-small-latest` (modifiable dans `rag_chain.py`)
-# chatgpt-rag
+
